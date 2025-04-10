@@ -1,0 +1,6 @@
+streamlit
+google-cloud-vision
+requests
+folium
+gtts
+streamlit-folium
